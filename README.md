@@ -2,7 +2,7 @@
 
 <h3> 👨‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Applying my ever-expanding skills behind a keyboard to the real world.
+- 🤔 &nbsp; Applying my skills behind a keyboard to the real world.
 - 🌱 &nbsp; Currently learning React and Python.
 - 👨‍🔧 &nbsp; When I'm not tinkering on the web, you'll find me tinkering on classic cars or motorcycles. 
 
